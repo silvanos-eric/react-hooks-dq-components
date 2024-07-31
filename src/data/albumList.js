@@ -1,4 +1,4 @@
-const albumList = [
+const albumListData = [
   {
     id: 1,
     name: "Classic Tuna Cans Being Opened",
@@ -54,4 +54,4 @@ const albumList = [
   },
 ];
 
-export { albumList };
+export { albumListData };
